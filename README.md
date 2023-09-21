@@ -14,7 +14,7 @@ Introduction of DDE KG Editor in Chinese. https://drive.google.com/file/d/1OjI25
 
 **Basic Information**: The DDE KG Editor is designed to help earth scientists around the world co-create high-quality large-scale Geoscience Professional Knowledge Graphs (GPKGs). It provides several distinctive features such as collaborative edit, peer review, contribution record, intelligent assistance, and system protection. Notably, all contributors and contributions will be recorded and displayed, and the knowledge in DDE KG Editor are free for non-commercial use.
 
-**Website**: https://editor.deep-time.org
+**Website**: https://editor.deep-time.org (VPN might be needed if you cannot access it)
 
 **System Developers**: Tsinghua University; Fuzhou Institution of Data Technology
 
