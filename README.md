@@ -18,7 +18,7 @@ Introduction of DDE KG Editor in Chinese. https://drive.google.com/file/d/1OjI25
 
 **System Developers**: Tsinghua University; Fuzhou Institution of Data Technology
 
-**Email**: lvhairong[AT]tsinghua.edu.cn; standard[AT]fzidt.com
+**Email**: lvhairong[AT]tsinghua.edu.cn; shishunzhong_cn[AT]126.com
 
 **First released**: October 2019
 
