@@ -25,3 +25,17 @@ Introduction of DDE KG Editor in Chinese. https://drive.google.com/file/d/1OjI25
 **Last updated**: July 2022
 
 **Version**: V3.00
+
+## Supporting Information
+
+Video S1. Introduction of DDE KG Editor. 
+
+https://editor.deep-time.org/assets/media/dde.dc030399.mp4 
+
+Video S2. User guide of DDE KG Editor.
+
+https://editor.deep-time.org/assets/media/operation.5406bc5b.mp4 
+
+The above two videos can also be found in the homepage of the official website.
+
+https://editor.deep-time.org
