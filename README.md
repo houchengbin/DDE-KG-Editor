@@ -1,5 +1,14 @@
 # DDE-KG-Editor
 DDE KG Editor: A Data Service System for Knowledge Graph Construction in Geoscience
+```
+@article{hou2024dde,
+  title={DDE KG Editor: A data service system for knowledge graph construction in geoscience},
+  author={Hou, Chengbin and Liu, Kaichuang and Wang, Tianheng and Shi, Shunzhong and Li, Yan and Zhu, Yunqiang and Hu, Xiumian and Wang, Chengshan and Zhou, Chenghu and Lv, Hairong},
+  journal={Geoscience Data Journal},
+  year={2024},
+  publisher={Wiley Online Library}
+}
+```
 
 ## Online Resources
 
