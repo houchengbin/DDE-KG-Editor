@@ -1,5 +1,9 @@
 # DDE-KG-Editor
 DDE KG Editor: A Data Service System for Knowledge Graph Construction in Geoscience
+
+Abstract: Deep-time Digital Earth (DDE) is an innovative international big science program, focusing on scientific propositions of earth evolution, changing Earth Science by coordinating global geoscience data, and sharing global geoscience knowledge. To facilitate DDE program with recent advances from computer science, the geoscience knowledge graph plays a key role to organize the data and knowledge of multiple geoscience subjects into Knowledge Graphs (KGs), which enables the calculation and inference over geoscience KGs for data mining and knowledge discovery. However, the construction of geoscience KGs is challenging. Though there have been some construction tools, they commonly lack of collaborative edit and peer review for building high-quality large-scale geoscience professional KGs. To this end, a data service system or tool, DDE KG Editor, is developed to construct geoscience KGs. Specifically, it comes with several distinctive features such as collaborative edit, peer review, contribution record, intelligent assistance, and discussion forums. Currently, global geoscientists have contributed over 60,000 ontologies for 22 subjects. The stability, scalability, and intelligence of the system are regularly improving as a public online platform to better serve the DDE program.
+
+If you find this work is useful, please consider the following citation.
 ```
 @article{hou2024dde,
   title={DDE KG Editor: A data service system for knowledge graph construction in geoscience},
@@ -9,6 +13,7 @@ DDE KG Editor: A Data Service System for Knowledge Graph Construction in Geoscie
   publisher={Wiley Online Library}
 }
 ```
+https://rmets.onlinelibrary.wiley.com/doi/full/10.1002/gdj3.245
 
 ## Online Resources
 
